@@ -1,6 +1,6 @@
 /*
  * File: 3-quick_sort.c
- * Auth: Dagem Tsehay
+ * Auth: Shalom and Yvonne
  */
 
 #include "sort.h"
