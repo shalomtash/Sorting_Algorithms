@@ -1,6 +1,6 @@
 /*
  * File: 0-bubble_sort.c
- * Auth: Dagem Tsehay
+ * Auth: shalom and yvonne
  */
 
 #include "sort.h"
