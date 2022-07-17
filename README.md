@@ -7,6 +7,6 @@
 
 ## Author
 
-- [Yvonne Kamau]
+- [ Yvonne Kamau ]
 
-- [Shalom Muraguri]
+- [ Shalom Muraguri ]
