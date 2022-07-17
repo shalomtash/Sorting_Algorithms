@@ -1,6 +1,6 @@
 /*
  * File: 104-heap_sort.c
- * Auth: Dagem Tsehay
+ * Auth: Shalom and Yvonne
  */
 
 #include "sort.h"
